@@ -5,6 +5,7 @@
  */
 'use strict'
 
+require('./update-prettier-config')
 require('./update-lib-configs')
 require('./update-lib-index')
 require('./update-docs')
